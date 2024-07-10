@@ -90,8 +90,8 @@ a{
     font-size: 7em;
     color:rgb(231,231,231);
     
-    bottom: -16%;
-    left: -5%;
+    bottom: -12%;
+    left: -6%;
     font-weight: bold;
     transition: all 3s;
 }
@@ -567,12 +567,11 @@ a{
 .skill-fade-text {
   position: absolute;
   font-size: 15rem;
-  font-style: bold;
   color: rgb(231,231,231);
-  bottom: -34.5%;
-  right: -25%;
+  bottom: -48.5%;
+  right: -7%;
   user-select: none;
-  /* overflow-y: hidden; */
+  font-weight: bold;
 }
 
 .blob-style {
