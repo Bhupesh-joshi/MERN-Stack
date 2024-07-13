@@ -23,7 +23,7 @@
 
 .myDiv {
     margin-top: 50px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     width: 200px;
     height: 400px;
     background-image: radial-gradient(circle, red, blue, green);

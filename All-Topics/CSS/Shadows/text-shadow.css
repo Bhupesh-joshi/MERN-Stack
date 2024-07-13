@@ -9,6 +9,6 @@ h1 {
     background-color: blueviolet;
     width: 200px;;
     height: 200px;;
-    /* box-shadow: 10px 10px 15px green, 15px 15px 15px yellow; */
+    box-shadow: 10px 10px 15px green, 15px 15px 15px yellow;
     color: red;
 }
