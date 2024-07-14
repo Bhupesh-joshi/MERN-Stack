@@ -1,9 +1,9 @@
 .flagO {
     /* border: 1px solid black; */
     width: 200px;
-    height: 100px;
+    /* height: 100px; */
 
-    /* background-image: linear-gradient(orange, white, green); */
+    background-image: linear-gradient(orange, white, green);
 }
 
 .line {
